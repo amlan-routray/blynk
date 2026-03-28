@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "title": "Olympic Sprint Finals: A New World Record",
+    "description": "The stadium erupted as the 100m record was shattered in a photo finish.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/73/400/300",
+    "publishedAt": "2025-12-02T08:14:22Z"
+  },
+  {
+    "id": 2,
+    "title": "Director's Cut: The Future of Virtual Cinema",
+    "description": "A deep dive into how VR is changing the way we experience summer blockbusters.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/250/400/300",
+    "publishedAt": "2025-12-05T21:33:10Z"
+  },
+  {
+    "id": 3,
+    "title": "India's Indigenous Chipset Hits Mass Production",
+    "description": "The latest Shakti-based processors are now powering local server farms efficiently.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/0/400/300",
+    "publishedAt": "2025-12-07T11:05:44Z"
+  },
+  {
+    "id": 4,
+    "title": "Global Markets Stabilize After Trade Talks",
+    "description": "Investors breathe a sigh of relief as international trade agreements are renewed.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/20/400/300",
+    "publishedAt": "2025-12-10T16:47:29Z"
+  },
+  {
+    "id": 5,
+    "title": "Rethinking Urban Spaces: The Green City Initiative",
+    "description": "Architects are proposing a new way to integrate forests into skyscraper designs.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/10/400/300",
+    "publishedAt": "2025-12-12T03:18:56Z"
+  },
+  {
+    "id": 6,
+    "title": "Underdog Team Wins Domestic Cricket Trophy",
+    "description": "Against all odds, the regional team clinched the title in the final over.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/103/400/300",
+    "publishedAt": "2025-12-15T09:22:31Z"
+  },
+  {
+    "id": 7,
+    "title": "Indie Game 'Neon Dusk' Sweeps Awards",
+    "description": "The pixel-art masterpiece took home five trophies including Game of the Year.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/96/400/300",
+    "publishedAt": "2025-12-18T14:55:03Z"
+  },
+  {
+    "id": 8,
+    "title": "Streaming Giant Announces 10 New Original Series",
+    "description": "Fans of sci-fi and historical drama have a lot to look forward to this winter.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/111/400/300",
+    "publishedAt": "2025-12-20T19:41:27Z"
+  },
+  {
+    "id": 9,
+    "title": "The Rise of Solo Travel in 2026",
+    "description": "Data shows more people are opting for 'unplugged' solo adventures this year.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/28/400/300",
+    "publishedAt": "2025-12-22T06:12:49Z"
+  },
+  {
+    "id": 10,
+    "title": "Startup Secures Funding for Ocean Cleanup AI",
+    "description": "The autonomous fleet uses computer vision to track and collect plastic waste.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/36/400/300",
+    "publishedAt": "2025-12-25T23:05:11Z"
+  },
+  {
+    "id": 11,
+    "title": "Mountain Biking: The Toughest Trail Ever Conquered",
+    "description": "Professional riders faced vertical drops and rocky terrain in the latest Red Bull challenge.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/146/400/300",
+    "publishedAt": "2025-12-27T10:30:02Z"
+  },
+  {
+    "id": 12,
+    "title": "AI in Hollywood: Digital Actors Take the Lead",
+    "description": "A new legal framework is being debated as studios use high-fidelity digital twins of stars.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/107/400/300",
+    "publishedAt": "2025-12-29T17:09:38Z"
+  },
+  {
+    "id": 13,
+    "title": "Quantum Internet: The First Secure Link Established",
+    "description": "Researchers have successfully sent unhackable data across a 50km fiber optic network.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/201/400/300",
+    "publishedAt": "2026-01-01T10:15:30Z"
+  },
+  {
+    "id": 14,
+    "title": "Real Estate Shift: The Rise of Modular Micro-Homes",
+    "description": "As housing prices climb, pre-fabricated sustainable pods are becoming the top choice for Gen Z.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/122/400/300",
+    "publishedAt": "2026-01-03T04:48:17Z"
+  },
+  {
+    "id": 15,
+    "title": "The Art of Slow Living: 2026's Biggest Wellness Trend",
+    "description": "Why thousands of professionals are quitting high-stress jobs to move to the countryside.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/152/400/300",
+    "publishedAt": "2026-01-05T13:27:55Z"
+  },
+  {
+    "id": 16,
+    "title": "Grand Slam Upset: 17-Year-Old Reaches Final",
+    "description": "The tennis world is in shock as a wildcard entry defeats the reigning world number one.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/133/400/300",
+    "publishedAt": "2026-01-07T22:09:12Z"
+  },
+  {
+    "id": 17,
+    "title": "Foldable Screens: The End of the Tablet Era?",
+    "description": "New market data suggests that 3-way folding phones are cannibalizing tablet sales.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/160/400/300",
+    "publishedAt": "2026-01-10T06:55:41Z"
+  },
+  {
+    "id": 18,
+    "title": "Noir Revival: Why Black & White Films are Back",
+    "description": "Modern directors are ditching CGI for high-contrast cinematography and practical sets.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/174/400/300",
+    "publishedAt": "2026-01-12T18:32:09Z"
+  },
+  {
+    "id": 19,
+    "title": "Crypto 2.0: Central Banks Launch Digital Currencies",
+    "description": "The shift toward government-backed digital tokens is officially changing the retail landscape.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/180/400/300",
+    "publishedAt": "2026-01-14T09:11:26Z"
+  },
+  {
+    "id": 20,
+    "title": "Minimalist Cooking: 5 Ingredients or Less",
+    "description": "The new culinary movement sweeping social media focuses on quality over complexity.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/225/400/300",
+    "publishedAt": "2026-01-16T20:44:50Z"
+  },
+  {
+    "id": 21,
+    "title": "Formula E: The Silent Street Race Revolution",
+    "description": "Electric racing hits the streets of Mumbai with a record-breaking 250k spectators.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/136/400/300",
+    "publishedAt": "2026-01-18T03:25:37Z"
+  },
+  {
+    "id": 22,
+    "title": "Retro Gaming: Why the 90s are Winning 2026",
+    "description": "Physical cartridge sales have overtaken digital downloads for the first time in a decade.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/180/400/300",
+    "publishedAt": "2026-01-20T15:08:14Z"
+  },
+  {
+    "id": 23,
+    "title": "Space-Bound: First Commercial Hotel in Orbit",
+    "description": "Booking is now open for the first low-earth orbit stay, starting at $1M per night.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/189/400/300",
+    "publishedAt": "2026-01-22T11:59:59Z"
+  },
+  {
+    "id": 24,
+    "title": "The VR Sequel: Can 'Avatar 4' Save the Box Office?",
+    "description": "James Cameron reveals the first 30 minutes of footage filmed entirely in 8K VR.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/221/400/300",
+    "publishedAt": "2026-01-24T07:42:21Z"
+  },
+  {
+    "id": 25,
+    "title": "Urban Farming: Roof-to-Table Dining is Here",
+    "description": "How city-dwellers are using vertical hydroponics to grow 80% of their own produce.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/212/400/300",
+    "publishedAt": "2026-01-26T19:16:33Z"
+  },
+  {
+    "id": 26,
+    "title": "Cricket 2.0: AI Umpires Make Their Debut",
+    "description": "Controversial new technology replaces human boundary riders in the latest T20 league.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/249/400/300",
+    "publishedAt": "2026-01-28T02:03:05Z"
+  },
+  {
+    "id": 27,
+    "title": "Solid State Batteries: 1000 Miles on One Charge",
+    "description": "A startup backed by major tech giants finally cracks the long-range EV puzzle.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/240/400/300",
+    "publishedAt": "2026-01-30T14:37:48Z"
+  },
+  {
+    "id": 28,
+    "title": "The Great Resignation 2.0: Focus on Freelancing",
+    "description": "Corporate giants struggle to retain talent as 60% of Gen Z shifts to project-based work.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/251/400/300",
+    "publishedAt": "2026-02-01T05:21:17Z"
+  },
+  {
+    "id": 29,
+    "title": "Anime's Global Grip: The New Billion-Dollar Genre",
+    "description": "Streaming platforms are pivoting their entire budgets to secure exclusive anime deals.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/270/400/300",
+    "publishedAt": "2026-02-03T12:44:28Z"
+  },
+  {
+    "id": 30,
+    "title": "Mindful Tech: The Rise of 'Dumb' Devices",
+    "description": "Why sales of distraction-free laptops and e-ink phones are skyrocketing in 2026.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/261/400/300",
+    "publishedAt": "2026-02-05T21:13:06Z"
+  },
+  {
+    "id": 31,
+    "title": "Underground Marathon: Running the City Subways",
+    "description": "London hosts the first-ever 42km race through abandoned tube tunnels.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/274/400/300",
+    "publishedAt": "2026-02-07T08:56:39Z"
+  },
+  {
+    "id": 32,
+    "title": "Neuralink Competitor Claims Wireless Telepathy",
+    "description": "A new non-invasive headset allows users to type 50 words per minute via thought alone.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/304/400/300",
+    "publishedAt": "2026-02-09T17:29:11Z"
+  },
+  {
+    "id": 33,
+    "title": "The 4-Day Work Week is Now Law in 3 Nations",
+    "description": "Early data shows a 15% boost in productivity and a massive drop in employee burnout.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/319/400/300",
+    "publishedAt": "2026-02-11T03:07:53Z"
+  },
+  {
+    "id": 34,
+    "title": "Hologram Concerts: The King of Pop Returns",
+    "description": "A world-first tour features a 3D hologram of Michael Jackson performing with live dancers.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/331/400/300",
+    "publishedAt": "2026-02-13T14:50:24Z"
+  },
+  {
+    "id": 35,
+    "title": "Digital Nomad Hubs: The New Expat Cities",
+    "description": "Bali and Lisbon are being challenged by high-tech villages in the Swiss Alps.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/342/400/300",
+    "publishedAt": "2026-02-15T22:31:47Z"
+  },
+  {
+    "id": 36,
+    "title": "E-Sports: Olympic Committee Approves First Medals",
+    "description": "Competitive gaming will officially debut as a medal event in the next summer games.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/354/400/300",
+    "publishedAt": "2026-02-17T06:18:05Z"
+  },
+  {
+    "id": 37,
+    "title": "Wearable AI: The End of the Smartphone Era?",
+    "description": "Smart glasses with built-in assistants are seeing their highest adoption rate yet.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/366/400/300",
+    "publishedAt": "2026-02-19T11:02:33Z"
+  },
+  {
+    "id": 38,
+    "title": "Subscription Fatigue: Streaming Mergers Explode",
+    "description": "Three major platforms announce a unified 'Mega-Bundle' to combat subscriber loss.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/380/400/300",
+    "publishedAt": "2026-02-21T19:47:59Z"
+  },
+  {
+    "id": 39,
+    "title": "Cannes 2026: AI-Directed Short Wins Top Prize",
+    "description": "A film written, edited, and directed by a neural network sparks a massive industry debate.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/391/400/300",
+    "publishedAt": "2026-02-23T04:36:12Z"
+  },
+  {
+    "id": 40,
+    "title": "The Zero-Waste Home: Living Off the Grid",
+    "description": "A look at the families who haven't bought a single plastic item in over two years.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/401/400/300",
+    "publishedAt": "2026-02-25T13:25:41Z"
+  },
+  {
+    "id": 41,
+    "title": "The Rise of Padel: World's Fastest Growing Sport",
+    "description": "Club memberships for the racket sport have tripled in the last six months across Asia.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/405/400/300",
+    "publishedAt": "2026-02-27T23:08:20Z"
+  },
+  {
+    "id": 42,
+    "title": "Bio-Printing: A New Era for Healthcare",
+    "description": "Scientists successfully 3D-print a functional heart valve using a patient's own cells.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/412/400/300",
+    "publishedAt": "2026-03-01T07:19:45Z"
+  },
+  {
+    "id": 43,
+    "title": "The Return of the Drive-In Cinema",
+    "description": "Nostalgia meets high-tech as laser projection brings a classic experience back to life.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/421/400/300",
+    "publishedAt": "2026-03-03T16:42:11Z"
+  },
+  {
+    "id": 44,
+    "title": "Green Energy: The First Solar-Powered City",
+    "description": "An entire municipality in Scandinavia officially disconnects from the national power grid.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/433/400/300",
+    "publishedAt": "2026-03-05T02:27:39Z"
+  },
+  {
+    "id": 45,
+    "title": "Digital Minimalism: Why People are Deleting Socials",
+    "description": "A new study reveals a 25% increase in 'offline-only' vacations this summer.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/442/400/300",
+    "publishedAt": "2026-03-07T11:14:58Z"
+  },
+  {
+    "id": 46,
+    "title": "Deep Sea Racing: The Next Frontier of Sport",
+    "description": "Autonomous underwater drones compete in the first-ever Trench-Run challenge.",
+    "genre": "Sports",
+    "urlToImage": "https://picsum.photos/id/451/400/300",
+    "publishedAt": "2026-03-09T20:36:23Z"
+  },
+  {
+    "id": 47,
+    "title": "Holographic Desktops: The End of Monitors?",
+    "description": "A startup releases a light-field display that projects 3D windows directly onto your desk.",
+    "genre": "Tech",
+    "urlToImage": "https://picsum.photos/id/460/400/300",
+    "publishedAt": "2026-03-11T06:05:17Z"
+  },
+  {
+    "id": 48,
+    "title": "Script to Screen: The 24-Hour Movie Challenge",
+    "description": "Filmmakers use generative tools to write, shoot, and edit a feature film in a single day.",
+    "genre": "Movies",
+    "urlToImage": "https://picsum.photos/id/472/400/300",
+    "publishedAt": "2026-03-13T15:48:29Z"
+  },
+  {
+    "id": 49,
+    "title": "The Gig Economy: New Labor Laws Enacted",
+    "description": "Freelancers gain access to corporate-style health benefits under a landmark new bill.",
+    "genre": "Business",
+    "urlToImage": "https://picsum.photos/id/483/400/300",
+    "publishedAt": "2026-03-15T01:22:54Z"
+  },
+  {
+    "id": 50,
+    "title": "Tiny Forests: Rewilding Your Own Backyard",
+    "description": "How a Japanese planting method is bringing biodiversity back to suburban neighborhoods.",
+    "genre": "Lifestyle",
+    "urlToImage": "https://picsum.photos/id/491/400/300",
+    "publishedAt": "2026-03-17T09:33:40Z"
+  },
+  {
+    "id": 51,
+    "title": "Election Reforms Spark Nationwide Debate",
+    "description": "Proposed changes to voting laws are drawing mixed reactions from political leaders.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/501/400/300",
+    "publishedAt": "2025-08-18T08:21:14Z"
+  },
+  {
+    "id": 52,
+    "title": "Global Leaders Meet to Address Climate Policy",
+    "description": "A high-level summit aims to align international efforts on climate legislation.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/502/400/300",
+    "publishedAt": "2026-01-18T14:55:02Z"
+  },
+  {
+    "id": 53,
+    "title": "New Bill Targets Digital Privacy Protections",
+    "description": "Lawmakers push for stricter controls on data collection and surveillance.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/503/400/300",
+    "publishedAt": "2026-02-19T06:43:27Z"
+  },
+  {
+    "id": 54,
+    "title": "Opposition Parties Unite Ahead of Elections",
+    "description": "A coalition is forming to challenge the ruling party in upcoming polls.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/504/400/300",
+    "publishedAt": "2025-10-19T19:12:45Z"
+  },
+  {
+    "id": 55,
+    "title": "Foreign Policy Shift Signals New Alliances",
+    "description": "Recent diplomatic moves suggest a strategic pivot in international relations.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/505/400/300",
+    "publishedAt": "2025-11-20T10:08:33Z"
+  },
+  {
+    "id": 56,
+    "title": "Parliament Passes Controversial Education Law",
+    "description": "The legislation has sparked protests and support across different states.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/506/400/300",
+    "publishedAt": "2026-01-21T05:27:18Z"
+  },
+  {
+    "id": 57,
+    "title": "Campaign Funding Rules Under Scrutiny",
+    "description": "Experts question transparency in political donations and expenditures.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/507/400/300",
+    "publishedAt": "2026-03-12T13:49:56Z"
+  },
+  {
+    "id": 58,
+    "title": "State Elections See Record Voter Turnout",
+    "description": "Officials report unprecedented participation across urban and rural areas.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/508/400/300",
+    "publishedAt": "2025-12-23T09:16:41Z"
+  },
+  {
+    "id": 59,
+    "title": "Debate Intensifies Over Tax Policy Changes",
+    "description": "Government proposals aim to restructure income and corporate taxes.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/509/400/300",
+    "publishedAt": "2025-11-12T16:38:12Z"
+  },
+  {
+    "id": 60,
+    "title": "Local Governance Reforms Announced",
+    "description": "New measures aim to decentralize power and improve administrative efficiency.",
+    "genre": "Politics",
+    "urlToImage": "https://picsum.photos/id/510/400/300",
+    "publishedAt": "2026-01-25T11:04:29Z"
+  }
+]
